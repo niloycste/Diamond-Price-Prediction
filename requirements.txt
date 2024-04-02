@@ -1,0 +1,9 @@
+numpy
+pandas
+gradio==3.39.0
+gradio-client==0.3.0
+scikit-learn==1.2.2
+seaborn
+matplotlib
+
+-e .
